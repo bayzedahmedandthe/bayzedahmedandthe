@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/Rpj9XVrs/1-6.jpg" alt="Mokkapps GitHub README header image">
+<img src="https://i.ibb.co/0V9nrc2b/1-7.jpg" alt="Mokkapps GitHub README header image">
 # 💫
 Hi! I'm Bayzed Ahmed, a passionate front-end developer who loves building user-friendly and performance-optimized web applications.<br><br>I specialize in React, JavaScript, Tailwind CSS, Firebase, and HTML, with a strong interest in web animation and performance optimization. My goal is to create fast, interactive, and responsive websites that deliver a seamless user experience.<br><br>I’m always eager to learn new front-end technologies , ensuring that websites are not only functional but also visually appealing.<br><br>
 
