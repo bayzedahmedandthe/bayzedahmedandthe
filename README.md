@@ -1,5 +1,5 @@
 <img src="https://i.ibb.co/355n7rdq/1.png" alt="Mokkapps GitHub README header image">
-# 💫 About Me:
+# 💫
 Hi! I'm Bayzed Ahmed, a passionate front-end developer who loves building user-friendly and performance-optimized web applications.<br><br>I specialize in React, JavaScript, Tailwind CSS, Firebase, and HTML, with a strong interest in web animation and performance optimization. My goal is to create fast, interactive, and responsive websites that deliver a seamless user experience.<br><br>I’m always eager to learn new front-end technologies , ensuring that websites are not only functional but also visually appealing.<br><br>
 
 
@@ -13,13 +13,7 @@ Hi! I'm Bayzed Ahmed, a passionate front-end developer who loves building user-f
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bayzedahmedandthe&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bayzedahmedandthe&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=bayzedahmedandthe&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <div align="center">
