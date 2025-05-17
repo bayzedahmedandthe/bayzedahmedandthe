@@ -10,7 +10,6 @@
 
 - 👯 I’m looking to collaborate on [Dev_Discuss](https://github.com/bayzedahmedandthe/Dev_Discuss_Client)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-8dc64.web.app/](https://portfolio-8dc64.web.app/)
 
 - 📫 How to reach me **bayzedm784@gmail.com**
 
